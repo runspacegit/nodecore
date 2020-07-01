@@ -1,6 +1,6 @@
 {
   "name": "@runspace/nodecore",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "NodeCore is an SDK that provides you a possibilities and features of RunSpace to manage your node.",
   "main": "dist/index.js",
   "repository": "git@github.com:runspacegit/nodecore.git",
