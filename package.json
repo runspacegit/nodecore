@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "NodeCore is an SDK that provides you a possibilities and features of RunSpace to manage your node.",
   "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "repository": "git@github.com:runspacegit/nodecore.git",
   "author": "Mikhail Marynenko <0x77dev@protonmail.com>",
   "license": "MIT",
